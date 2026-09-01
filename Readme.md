@@ -1,5 +1,5 @@
 
-# LLM Guardrails POC - Enhanced
+# LLM Guardrails POC - Enhanced for Red Teaming
 
 ## 0. What's New (v2.0)
 
